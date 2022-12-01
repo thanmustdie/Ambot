@@ -1,0 +1,24 @@
+    	body
+		{
+			background-color: #344D67;
+		}
+		p
+		{
+			color: blue;
+		}
+		h3
+		{
+			color: blueviolet;
+		}
+		h1
+		{
+			color: chocolate;
+		}
+        hr
+        {
+            width: 90%;
+            border-style: none;
+            border-top-style: dotted;
+            border-color: black;
+            border-width: 5px;
+        }
